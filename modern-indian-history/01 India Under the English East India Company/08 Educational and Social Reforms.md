@@ -60,11 +60,88 @@ _Change in the British attitude of indifference towards social issues in India:_
 * Impact of western thought and education and views expressed in different newspapers and magazines
 * Personal interest in the matter shown by some of the British administrators like Lord William Bentinck
 
-There were primarily two areas in which laws were enacted, laws pertaining to women emancipation and the caste system.
+There were primarily two areas pertaining to which laws were enacted:
+* women emancipation
+* caste system
 
-Social Laws Concerning Women:
+---
 
-```
-  [TODO: NOT COMPLETE]  
-  [Target: 17-Dec-2017]
-```
+### Social Laws Concerning Women
+The condition of women, by the time the British established their rule, was not encouraging.
+
+* Several evil practices such as the practice of Sati, the Purdah system, child marriage, female infanticide, bride price and polygamy had made their life quite miserable.
+* The doors of education had been shut for them. The place of women had come to be confined to the four walls of her home.
+* A Hindu woman was not entitled to inherit any property.
+
+There was no social and economic equality between a man and woman. Thus, by and large, she was completely dependent on men.
+
+During the 19th and 20th centuries some laws were enacted with the sincere efforts of social reformers, humanists and some British administrators to improve the condition of women in Indian society.
+
+#### Practice of _Sati_
+* the enactment of law (Bengal Sati Regulation, 1829) against the practice of _Sati_ during the administration of Lord William Bentinck
+* this was the first effort in the direction of improving the condition of women in Indian society
+
+#### Female Infanticide
+It particularly prevailed in Rajputana, Punjab and the North Western Provinces.
+
+_Major reasons responsible for this practice:_
+* family pride
+* the fear of not finding a suitable match for the girl child
+* the hesitation to bend before the prospective in-laws
+
+Some laws were enacted against this practice in 1795, 1802 and 1804 and then in 1870. However, the practice could not be completely eradicated only through legal measures. Gradually, this evil practice came to be done away through education and public opinion.
+
+#### Widow Remarriage
+
+There are many historical evidences to suggest that widow remarriage enjoyed social sanction during ancient period in India. In course of time the practice ceased to prevail.
+
+Social reformers (Prominently Raja Rammohan Roy and Iswar Chandra Vidyasagar) made sincere efforts to popularize widow remarriage by:
+* writing in newspapers and contemporary journals
+* carrying out large scale campaigns in this regard mainly through books, pamphlets and petitions
+
+The __Hindu Widows' Remarriage Act, 1856__ legalised the remarriage of Hindu widows in all jurisdictions of India under East India Company rule.
+
+#### Child Marriage
+* In November 1870, the Indian Reforms Association was started with the efforts of Keshav Chandra Sen.
+* A journal called _'Mahapap Bal Vivah'_ (Child marriage: The Cardinal Sin) was also launched with the efforts of B.M. Malabari to fight against child marriage.
+* In 1846, the minimum marriageable age for a girl was only 10 years.
+* In 1891, through the enactment of the _Age of Consent Act_, this was raised to 12 years.
+* In 1930, through the _Sharda Act_, the minimum age was raised to 14 years.
+* After independence, the limit was raised to 18 years in 1978.
+
+#### Purdah System
+* The condition of women among the peasantry was relatively better in this respect.
+* Purdah was not so much prevalent in Southern India.
+
+Through the large scale participation of women in the national freedom movement, the system disappeared without any specific legislative measure taken against it.
+
+---
+
+#### Struggle against the Caste System
+
+* The caste system was primarily based on the fourfold division of society viz. Brahmins, Kshatriya, Vaishyas and Shudras.
+* Shudras, on account of their lower social status, were subjected to all kinds of social discrimination.
+* In the beginning of the 19th century the castes of India had been split into innumerable sub-castes on the basis of birth.
+
+__Untouchability :__  
+
+Abolition of untouchability became a major issue of the 19th century social and religious reform movements in the country.
+
+* Mahatma Gandhi
+    - he made the removal of untouchability a part of his constructive programme
+    - He brought out a paper, _The Harijan_, and also organised the Harijan Sevak Sangh.
+* Dr. Bhimrao Ambedkar
+    - he dedicated his entire life for the welfare of the downtrodden
+    - In Bombay, he formed a Bahiskrit Hitkarini Sabha in July 1924 for this purpose.
+    - Later, he also organised the Akhil Bharatiya Dalit Varg Sabha to fight against caste oppression.
+* Jyotirao Phule and Shri Narayana Guru
+    - they established societies to include self-esteem among the downtrodden
+    - Jyotirao Phule in Western India established the 'Satya Sadhak Samaj'
+    - Shri Narayana Guru in Kerala established the 'Shri Narayana Dharma Paripalana Yogam' (SNDP)
+* Periyar E.V.R.
+    - 'Self-respect Movement' in the beginning of 20th century  in the Madras Presidency
+
+There were many other individual and institutional efforts directed mainly towards removing the disabilities suffered by Harijans in regard to:
+- drawing of water from public wells
+- getting entry into temples
+- admission into schools
