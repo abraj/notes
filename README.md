@@ -1,1 +1,1 @@
-# Modern Indian History notes
+# Notes
