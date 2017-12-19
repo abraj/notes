@@ -86,7 +86,7 @@ Pitt’s India Act constitutes a significant landmark with regard to the foreign
 * When Rahmat Khan evaded, the Nawab with the help of the British invaded Rohilkand.
 * Warren Hastings, who sent the British troops against Rohilkand was severely crticised for his policy on Rohilla affair.
 
-#### First Anglo-Maratha War (1775-82)
+#### The First Anglo-Maratha War (1775-82)
 * The Marathas were largely remained disunited since the Third Battle of Panipat (1761).
 * The internal conflict among the Marathas was best utilized by the British in their expansionist policy.
 
