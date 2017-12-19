@@ -8,14 +8,15 @@ Lord Cornwallis:
 
 The Parliament amended Pitt’s India Act in 1786 so as enable Lord Cornwallis to overrule the decision of the majority of his council, if necessary.
 
-### Tipu Sultan and the Third Mysore War (1790-92)
+### Tipu Sultan and the Third Anglo-Mysore War
 The Treaty of Mangalore (1784) exhibited the military strength of Mysore, exposed English weaknesses and increased Tipu’s strength.
 
-_Tipu Sultan:_
+#### Tipu Sultan
 * Like his father he wanted to eliminate the English from India.
 * He also wanted to take revenge against the Nizam and the Marathas as they had betrayed his father during the hour of need.
 * strengthened his position by undertaking various internal reforms. This created worries to the British, the Nizam of Hyderabad and the Marathas.
 
+#### The Third Anglo-Mysore War (1790-92)
 Chief causes for the Third Mysore War:
 * Tipu made attempts to seek the help of France and Turkey by sending envoys to those countries.
 * He also expanded his territories at the cost of his neighbours, particularly the Raja of Travancore, who was an ally of the British.
@@ -23,8 +24,7 @@ Chief causes for the Third Mysore War:
 
 Tipu Sultan had been defeated in the Third Mysore War and the strength of Mysore had been reduced. The British secured a large territory on the Malabar Coast. In addition they obtained the Baramahal district and Dindugal.
 
-Tipu Sultan concluded the __Treaty of Srirangapattinam__ with the British in 1792.
-
+Tipu Sultan concluded the __Treaty of Srirangapattinam__ with the British in 1792.  
 The terms of the treaty were as follows:
 * Tipu had to give up half his dominions.
 * He had to pay a war indemnity of three crore rupees and surrender two of his sons as hostages to the English.
