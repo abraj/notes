@@ -81,12 +81,12 @@ Pitt’s India Act constitutes a significant landmark with regard to the foreign
 
 #### Expansionist Policy of Warren Hastings
 
-##### The Rohilla War (1774) :
+##### The Rohilla War (1774)
 * Rohilkand was a small kingdom situated in between Oudh and the Marathas. Its ruler was Hafiz Rahmat Khan.
 * When Rahmat Khan evaded, the Nawab with the help of the British invaded Rohilkand.
 * Warren Hastings, who sent the British troops against Rohilkand was severely crticised for his policy on Rohilla affair.
 
-__First Anglo-Maratha War (1775-82) :__
+##### First Anglo-Maratha War (1775-82)
 * The Marathas were largely remained disunited since the Third Battle of Panipat (1761).
 * The internal conflict among the Marathas was best utilized by the British in their expansionist policy.
 
