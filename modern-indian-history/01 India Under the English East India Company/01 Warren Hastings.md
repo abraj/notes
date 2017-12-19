@@ -1,7 +1,7 @@
 
-### Warren Hastings (1772-1785)
+## Warren Hastings (1772-1785)
 
-#### Reforms of Warren Hastings
+### Reforms of Warren Hastings
 
 When Warren Hastings assumed the administration of Bengal in 1772, the financial position of the Company was very bad and the difficulties were intensified by the Great famine in Bengal in 1770.
 
@@ -27,7 +27,7 @@ When Warren Hastings assumed the administration of Bengal in 1772, the financial
     - introduced a uniform system of pre-paid postage system
     - A bank was started in Calcutta
 
-#### The Regulating Act of 1773
+### The Regulating Act of 1773
 
 _Background:_
 * The Home government in England consisted of the _Court of Directors_ and the _Court of Proprietors_.
@@ -66,7 +66,7 @@ _Demerits of the Act:_
 
 However, many of these defects were rectified by the Pitt’s India Act of 1784.
 
-#### Pitt’s India Act, 1784
+### Pitt’s India Act, 1784
 * In January 1784, Pitt the Younger (who later became the Prime Minister of England) introduced the 'India Bill' in the British Parliament.
 * The bill was passed in the British Parliament and it received royal assent in August 1784.
 
@@ -79,14 +79,14 @@ Pitt’s India Act constitutes a significant landmark with regard to the foreign
 * The Court of Directors (who symbolised the Company) controlled its commercial functions.
 * The Board of Control (who represented the King) maintained its political affairs.
 
-#### Expansionist Policy of Warren Hastings
+### Expansionist Policy of Warren Hastings
 
-##### The Rohilla War (1774)
+#### The Rohilla War (1774)
 * Rohilkand was a small kingdom situated in between Oudh and the Marathas. Its ruler was Hafiz Rahmat Khan.
 * When Rahmat Khan evaded, the Nawab with the help of the British invaded Rohilkand.
 * Warren Hastings, who sent the British troops against Rohilkand was severely crticised for his policy on Rohilla affair.
 
-##### First Anglo-Maratha War (1775-82)
+#### First Anglo-Maratha War (1775-82)
 * The Marathas were largely remained disunited since the Third Battle of Panipat (1761).
 * The internal conflict among the Marathas was best utilized by the British in their expansionist policy.
 
@@ -104,8 +104,7 @@ _Significance of The Treaty of Salbai (1782):_
 * The Treaty also enabled the British to exert pressure on Mysore with the help of the Marathas in recovering their territories from Haider Ali.
 * Thus, the British, on the one hand, saved themselves from the combined opposition of Indian powers and on the other, succeeded in dividing the Indian powers.
 
-__The Second Anglo-Mysore War (1780-84) :__
-
+#### The Second Anglo-Mysore War (1780-84)
 The first Anglo-Mysore War took place in 1767-69. Haider Ali emerged victorious against the British and at the end of the War a defensive treaty was concluded between Haider Ali
 and the British. After eleven years, the Second Mysore War broke out.
 
@@ -125,7 +124,7 @@ Consequently, Haider was isolated without any alliance.
 
 The Second Mysore War came to an end by the __Treaty of Mangalore__ in 1783.
 
-#### The Impeachment of Warren Hastings
+### The Impeachment of Warren Hastings
 * bitter disappointment for Warren Hastings due to the Pitt’s India Act of 1784
 * his image and reputation were tarnished in England
 * Charges:
@@ -139,7 +138,7 @@ The Second Mysore War came to an end by the __Treaty of Mangalore__ in 1783.
 * 1787: Impeached by the British Parliament
 * 1795: Completely acquitted after long trials
 
-#### Personality of Warren Hastings
+### Personality of Warren Hastings
 * gifted personality with strong will, great energy and resourcefulness
 * oriental tastes (learnt Bengali and Persian)
 * patronised Indian languages and arts
