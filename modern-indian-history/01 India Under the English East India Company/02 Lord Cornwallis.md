@@ -1,5 +1,5 @@
 
-### Lord Cornwallis (1786-1793)
+## Lord Cornwallis (1786-1793)
 
 Lord Cornwallis:
 * was a blue-blooded aristocrat and a warrior-statesman
@@ -8,7 +8,7 @@ Lord Cornwallis:
 
 The Parliament amended Pitt’s India Act in 1786 so as enable Lord Cornwallis to overrule the decision of the majority of his council, if necessary.
 
-#### Tipu Sultan and the Third Mysore War (1790-92)
+### Tipu Sultan and the Third Mysore War (1790-92)
 The Treaty of Mangalore (1784) exhibited the military strength of Mysore, exposed English weaknesses and increased Tipu’s strength.
 
 _Tipu Sultan:_
@@ -32,16 +32,16 @@ The terms of the treaty were as follows:
 
 ---
 
-#### Reforms of Lord Cornwallis
+### Reforms of Lord Cornwallis
 
 The internal reforms of Cornwallis can be studied under three main heads.
 * Administrative reforms
 * Revenue reforms or Permanent Settlement (given in Lesson 7??)
 * Judicial and other reforms
 
-#### Administrative Reforms
+### Administrative Reforms
 
-##### Purification of the civil service
+#### Purification of the civil service
 Cornwallis found that:
 * the servants of the Company were underpaid
 * but they received very high commissions on revenues
@@ -55,11 +55,11 @@ The greatest work of Cornwallis was the purification of the civil service by the
 * cut down on extravagances, he abolished a number of surplus posts
 
 
-##### The separation of the three branches of service
+#### The separation of the three branches of service
 * introduced was the separation of the three branches of service, namely commercial, judicial and revenue.
 * the collectors, the king-pins of the administrative system were deprived of their judicial powers and their work became merely the collection of revenue
 
-#### Judicial Reforms
+### Judicial Reforms
 
 Civil and criminal courts were completely reorganized.
 
@@ -73,7 +73,7 @@ Civil and criminal courts were completely reorganized.
 
 Cornwallis prepared a comprehensive code, covering the whole field of administration’, judicial, police, commercial and fiscal. This Code was based upon the principle of Montesquieu, “the Separation of Powers”, which was popular in the West in 18th century.
 
-#### Police Reforms
+### Police Reforms
 The effective implementation of judicial reforms required the reorganisation of police administration.
 
 * The District Judge controlled the police.
@@ -82,13 +82,13 @@ The effective implementation of judicial reforms required the reorganisation of 
 
 However, the police organization was not effective. In the words of Joshua Marshman (a British Christian missionary), "the daroga enjoyed almost unlimited power of extortion and became the scourge of the country".
 
-#### Other Reforms
+### Other Reforms
 * Cornwallis reformed the _'Board of Trade'_ which managed the commercial investments of the Company.
 * He eradicated numerous abuses and corrupt practices.
 * Fair treatment was given to weavers and Indian workers.
 * He increased the remuneration for honest service.
 
-#### Estimate of Cornwallis
+### Estimate of Cornwallis
 * A new tradition of choosing a person from an aristocratic family for the post of Governor-General was initiated.
 * He perceived the danger of Tipu’s growing power and curtailed it by boldly discarding the policy of nonintervention.
 * He consolidated the Company’s position in India and started the tradition of efficient and pure administration.

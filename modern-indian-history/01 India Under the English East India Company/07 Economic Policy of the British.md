@@ -1,5 +1,5 @@
 
-### Revenue Administration and Economic Policy of the British
+## Revenue Administration and Economic Policy of the British
 
 Till the 18th century, there was a strong relation between agriculture and cottage industries in India.
 
@@ -22,7 +22,7 @@ The British principally adopted three types of land tenures (revenue system):
     - introduced in part of the Bombay and Madras Presidencies, Assam and certain other parts of British India
     - covered about 51 per cent of the area under British rule
 
-#### The Permanent Settlement
+### The Permanent Settlement
 
 It is appropriate to recall that Warren Hastings introduced the annual lease system of auctioning the land to the highest bidder. It created chaos in the revenue administration.
 
@@ -51,7 +51,7 @@ Nevertheless, this system proved to be a great boon to the zamindars and to the 
 * It formed a regular income and stabilised the government of the Company.
 * The zamindars prospered at the cost of the welfare of the tenants.
 
-#### Ryotwari Settlement
+### Ryotwari Settlement
 * Sir Thomas Munro introduced this system in the Madras Presidency in 1820.
 * It was introduced mainly in Madras, Berar, Bombay and Assam.
 
@@ -65,14 +65,14 @@ However, in the end, this system also failed since:
 * Under this settlement it was certainly not possible to collect revenue in a systematic manner.
 * The revenue officials indulged in harsh mesuares for non payment or delayed payment.
 
-#### Mahalwari Settlement
+### Mahalwari Settlement
 * In 1833, the Mahalwari settlement was introduced in the Punjab, the Central Provinces and parts of North Western Provinces.
 * Under this system the basic unit of revenue settlement was the village or the Mahal.
 * As the village lands belonged jointly to the village community, the responsibility of paying the revenue rested with the entire Mahal or the village community.
 
 Though the Mahalwari system eliminated middlemen between the government and the village community, yet its benefit was largely enjoyed by the government.
 
-#### British Policy towards Indian Handicrafts
+### British Policy towards Indian Handicrafts
 
 India was already far ahead of other countries in the world. State of the Indian industries before the 18th century:
 

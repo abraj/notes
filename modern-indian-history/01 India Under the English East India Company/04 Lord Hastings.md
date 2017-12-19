@@ -1,5 +1,5 @@
 
-### Lord Hastings (1813-1823)
+## Lord Hastings (1813-1823)
 * adopted a vigorous forward policy and waged wars extensively
 * He further expanded the British power in India.
 
@@ -8,7 +8,7 @@ _Prevalent conditions in India:_
 * Also, there was infighting among the Maratha chiefs.
 * Hastings was also troubled by the expansion of the Gurkha power.
 
-#### War against the Gurkhas (1814-16)
+### War against the Gurkhas (1814-16)
 * Nepal emerged as a powerful Gurkha state in 1768.
 * The aggressions of the Gurkhas into the British territories culminated in a war.
 * In 1814 several battles were fought between the British and the Gurkhas. Amar Singh Thapa, the able General of Nepal Army was forced to surrender.
@@ -21,7 +21,7 @@ _Prevalent conditions in India:_
 
 After this victory in the Gurkha War Hastings was honoured with English peerage and he became Marquis of Hastings.
 
-#### Suppression of the Pindaris
+### Suppression of the Pindaris
 
 _Pindaris:_
 * They did not belong to any particular caste or creed. Their leaders belonged to both the Hindu as well as the Muslim communities.
@@ -35,7 +35,7 @@ _Suppressive action of Lord Hastings:_
 * By 1818, the Pindaris were completely suppressed and all their bands disintegrated.
 * By 1824, all their leaders were killed or captured. Thus, the menace of the Pindaris came to an end.
 
-#### Downfall of the Maratha Confederacy
+### Downfall of the Maratha Confederacy
 * The Maratha power had weakened considerably after the Third
 * Battle of Panipat (1761) and the two subsequent wars against the British.
 * The Maratha chiefs fought amongst themselves and their successors were invariably weak and incapable.
@@ -49,7 +49,7 @@ _Peshwa Baji Rao II:_
 * The British Resident Elphinstone forced the Peshwa to sign the __Treaty of Poona__ on 13 June 1817.
 * Baji Rao gave up his desire to become the supreme head of the Marathas.
 
-#### Third Maratha War (1817-1819)
+### Third Maratha War (1817-1819)
 _Peshwa and Holkar:_
 * The Peshwa undid the Treaty of Poona with the British and on 5 November 1817 attacked the British Residency.
 * The Peshwa was defeated at a place called Kirkee.
@@ -67,14 +67,14 @@ _Gaekwar of Baroda:_
 
 The year 1818 was a significant year on account of major political achievements for the British. The Maratha dream of establishing themselves as the paramount power in India was completely destroyed. Thus, the last hurdle in the way of British paramountcy was removed.
 
-#### Causes of the Defeat of the Marathas
+### Causes of the Defeat of the Marathas
 * The major drawback of the Maratha power was mutual bitterness and lack of cooperation amongst themselves.
 * Lack of capable leadership
 * Military weakness of the Marathas.
 * The Marathas did not have cordial relations with other princes and Nawabs of India.
 * The Marathas failed to estimate correctly the political and diplomatic strength of the British.
 
-#### Reforms of Hastings
+### Reforms of Hastings
 * He approved the __Ryotwari system__ of land revenue introduced in the Madras Presidency by Sir Thomas Munroe.
 * In the sphere of judiciary, the Cornwallis Code was improved.
 * The Police system of Bengal was extended to other regions.
@@ -83,7 +83,7 @@ The year 1818 was a significant year on account of major political achievements 
 * He encouraged the freedom of the Press and abolished the censorship introduced in 1799.
     - The Bengali Weekly, _'Samachar Darpan'_ was started in 1818 by Marshman, a Serampore missionary.
 
-#### Estimate
+### Estimate
 * Lord Hastings was an able soldier and a brilliant administrator.
 * His liberal views on education and Press are commendable.
 * He suppressed the Pindaris, defeated the Marathas and curbed the power of the Gurkhas.

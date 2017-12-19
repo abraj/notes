@@ -1,5 +1,5 @@
 
-### Lord Wellesley (1798-1805)
+## Lord Wellesley (1798-1805)
 
 Richard Colley Wellesley was a great imperialist and called himself ‘a Bengal tiger’.
 
@@ -10,7 +10,7 @@ The system that he adopted to achieve his object is known as the ‘Subsidiary A
 Preservation of British prestige and removal of French danger from India were Wellesley’s twin aims.
 
 
-#### Political Condition of India at the time of Wellesley’s Arrival
+### Political Condition of India at the time of Wellesley’s Arrival
 * In the north-western India, the danger of Zaman Shah’s aggression posed a serious threat to the British power in India.
 * In the north and central India, the Marathas remained a formidable political power.
 * The Nizam of Hyderabad employed the Frenchmen to train his army.
@@ -18,7 +18,7 @@ Preservation of British prestige and removal of French danger from India were We
 * The policy of neutrality adopted by Sir John Shore, the successor of Cornwallis, created a kind of political unrest in India and greatly affected the prestige of the English. His non-intervention policy contributed much to the growth of anti-British feelings.
 * Further, Napoleon’s move for an Eastern invasion created a fear among English statesmen.
 
-#### The Subsidiary Alliance System
+### The Subsidiary Alliance System
 
 Lord Wellesley reversed the non-intervention policy of his predecessor and formulated his master plan namely the ‘Subsidiary Alliance’. Wellesley enlarged and consolidated the already existing system. However, his originality was revealed in its application.
 
@@ -63,7 +63,7 @@ _Enforcement of the Subsidiary System:_
     - Accordingly, the Nawab gave the British the rich lands of Rohilkhand, the lower Doab and Gorakhpur for the maintenance of an increased army which the British stationed in the capital of Oudh.
     - For the maintenance of law and order the British were authorised to frame rules and regulations. By this, the British acquired the right to interfere in the internal matters of Oudh.
 
-#### The Fourth Anglo-Mysore War (1799)
+### The Fourth Anglo-Mysore War (1799)
 
 _The circumstances and strategy of Tipu Sultan:_
 * Tipu Sultan wanted to avenge his humiliating defeat and the terms imposed on him by the British.
@@ -87,7 +87,7 @@ _Mysore After the War:_
 * Tipu’s family was sent to the fort of Vellore.
 * The remaining parts of the kingdom were divided between the British and the Nizam.
 
-#### Wellesley and the Marathas
+### Wellesley and the Marathas
 
 The only power that remained outside the purview of the subsidiary system was the Marathas.
 
@@ -109,7 +109,7 @@ _Peshwa Baji Rao II:_
 __NOTE:__  Maratha Confederacy  
 ?? ==> [Others]
 
-#### The Second Maratha War (1803-1805)
+### The Second Maratha War (1803-1805)
 
 _Scindia and Bhonsle:_
 * Daulat Rao Scindia and Raghoji Bhonsle took the Treaty of Bassein as an insult to the national honour of the Marathas.
@@ -123,7 +123,7 @@ _Holkar:_
 * However, when Wellesley offered an alliance, Holkar made extreme demands. This made Wellesley to declare war against Holkar.
 * The campaign against Holkar was well-organised but the English generals for the first time committed blunders. Holkar remained unsubdued.
 
-#### Estimate of Wellesley
+### Estimate of Wellesley
 * An unscrupulous annexationist and an advocate of forward policy
 * He converted 'the British Empire in India' to 'the British Empire of India'. He turned the East India Company from a trading corporation into an imperial power.
 * He located the weak spots of the Indian powers and applied his political technique (namely Subsidiary Alliance).

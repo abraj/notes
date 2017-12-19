@@ -1,7 +1,7 @@
 
-### Educational and Social Reforms
+## Educational and Social Reforms
 
-#### Language and Education Policy
+### Language and Education Policy
 
 _Prevalent state of education:_
 * Although the British had captured Bengal in 1757, yet the responsibility of imparting education remained only in Indian hands.
@@ -11,7 +11,7 @@ _Prevalent state of education:_
     - Madras, Bombay and Punjab also demonstrate similar facts.
     - There was at least one school in every village of India at that time.
 
-#### Education policy of The East India Company
+### Education policy of The East India Company
 
 The East India Company began to adopt a dual policy in the sphere of education.
 
@@ -45,7 +45,7 @@ _Recommendations:_
 
 Consequently, within the next few years, the Indian education became rapidly westernized.
 
-#### Social Policies and Legislation
+### Social Policies and Legislation
 
 In the beginning, the British did not show any interest in taking the issue of social or religious reforms because:
 * their interest was limited to trade and earning profits from economic exploitation
@@ -66,7 +66,7 @@ There were primarily two areas pertaining to which laws were enacted:
 
 ---
 
-### Social Laws Concerning Women
+## Social Laws Concerning Women
 The condition of women, by the time the British established their rule, was not encouraging.
 
 * Several evil practices such as the practice of Sati, the Purdah system, child marriage, female infanticide, bride price and polygamy had made their life quite miserable.
@@ -77,11 +77,11 @@ There was no social and economic equality between a man and woman. Thus, by and 
 
 During the 19th and 20th centuries some laws were enacted with the sincere efforts of social reformers, humanists and some British administrators to improve the condition of women in Indian society.
 
-#### Practice of _Sati_
+### Practice of _Sati_
 * the enactment of law (Bengal Sati Regulation, 1829) against the practice of _Sati_ during the administration of Lord William Bentinck
 * this was the first effort in the direction of improving the condition of women in Indian society
 
-#### Female Infanticide
+### Female Infanticide
 It particularly prevailed in Rajputana, Punjab and the North Western Provinces.
 
 _Major reasons responsible for this practice:_
@@ -91,7 +91,7 @@ _Major reasons responsible for this practice:_
 
 Some laws were enacted against this practice in 1795, 1802 and 1804 and then in 1870. However, the practice could not be completely eradicated only through legal measures. Gradually, this evil practice came to be done away through education and public opinion.
 
-#### Widow Remarriage
+### Widow Remarriage
 
 There are many historical evidences to suggest that widow remarriage enjoyed social sanction during ancient period in India. In course of time the practice ceased to prevail.
 
@@ -101,7 +101,7 @@ Social reformers (Prominently Raja Rammohan Roy and Iswar Chandra Vidyasagar) ma
 
 The __Hindu Widows' Remarriage Act, 1856__ legalised the remarriage of Hindu widows in all jurisdictions of India under East India Company rule.
 
-#### Child Marriage
+### Child Marriage
 * In November 1870, the Indian Reforms Association was started with the efforts of Keshav Chandra Sen.
 * A journal called _'Mahapap Bal Vivah'_ (Child marriage: The Cardinal Sin) was also launched with the efforts of B.M. Malabari to fight against child marriage.
 * In 1846, the minimum marriageable age for a girl was only 10 years.
@@ -109,7 +109,7 @@ The __Hindu Widows' Remarriage Act, 1856__ legalised the remarriage of Hindu wid
 * In 1930, through the _Sharda Act_, the minimum age was raised to 14 years.
 * After independence, the limit was raised to 18 years in 1978.
 
-#### Purdah System
+### Purdah System
 * The condition of women among the peasantry was relatively better in this respect.
 * Purdah was not so much prevalent in Southern India.
 
@@ -117,7 +117,7 @@ Through the large scale participation of women in the national freedom movement,
 
 ---
 
-#### Struggle against the Caste System
+### Struggle against the Caste System
 
 * The caste system was primarily based on the fourfold division of society viz. Brahmins, Kshatriya, Vaishyas and Shudras.
 * Shudras, on account of their lower social status, were subjected to all kinds of social discrimination.

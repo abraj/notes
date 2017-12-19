@@ -1,5 +1,5 @@
 
-### Vellore Mutiny
+## Vellore Mutiny
 
 The Vellore mutiny on 10 July 1806 was the first instance of a large-scale and violent mutiny by Indian sepoys against the East India Company, predating the Indian Rebellion of 1857 by half a century.
 

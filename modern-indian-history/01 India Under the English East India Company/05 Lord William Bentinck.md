@@ -1,10 +1,10 @@
 
-### Lord William Bentinck (1828-1835)
+## Lord William Bentinck (1828-1835)
 * commenced his career as a soldier and later at the young age of twenty two he became a Member of Parliament
 * appointed the Governor of Madras in 1803; supported Sir Thomas Munroe on revenue administration
 * He was undoubtedly the first Governor- General of British India who acted on the dictum that “the welfare of the subject peoples was a main, perhaps the primary, duty of the British in India”.
 
-#### Policy Towards Indian States
+### Policy Towards Indian States
 * adopted a policy of _non-intervention_ and _non-aggression_ with Indian states
 * If at all he interfered in the affairs of the Indian states, it was only to end any form of misgovernment and never to annex any territory.
 
@@ -26,14 +26,14 @@ __Coorg :__
 * Lord William Bentinck sent forces there and captured Mercara, the capital of the Coorg state.
 * The Raja was deposed in 1834 and the state was annexed.
 
-#### Relations with Ranjit Singh and The Amirs of Sind
+### Relations with Ranjit Singh and The Amirs of Sind
 * Lord William Bentinck was the first Governor-General to visualise a Russian threat to India.
 * Hence, he was eager to negotiate friendly relations both with the ruler of Punjab, Maharajah Ranjit Singh and also with the Amirs of Sind.
 * His earnest desire was that Afghanistan should be made a buffer state between India and any possible invader.
 * The Governor-General was successful in winning the friendship of Ranjit Singh and the __Indus Navigation Treaty__ was concluded between them. This treaty opened up the Sutlej for navigation.
 * In addition, a commercial treaty was negotiated with Ranjit Singh. A similar treaty was also concluded with the Amirs of Sind.
 
-#### Charter Act of 1833
+### Charter Act of 1833
 
 The Regulating Act of 1773 made it compulsory to renew the Company’s Charter after twenty years.
 
@@ -52,7 +52,7 @@ _Important provisions of The Charter Act of 1833:_
 
 After twenty years, the Charter Act of 1853 was passed and it was the last in the series of Charter Acts.
 
-#### Reforms of Lord William Bentinck
+### Reforms of Lord William Bentinck
 Although his tenure of office covered only a short span of seven years, it saw a period of enduring reforms.
 
 __Financial Reforms :__  
@@ -92,7 +92,7 @@ __Educational Reforms :__
     - The Government Resolution in 1835 made English the official and literary language of India.
 * In 1835, William Bentinck laid foundation of the Calcutta Medical College.
 
-#### Estimate of William Bentinck
+### Estimate of William Bentinck
 * Bentinck was a “straightforward, honest, upright, benevolent, sensible man”.
 * His social reforms such as abolition of _sati_ and prevention of child sacrifice eradicated age old evils from Hindu society.
 * He had courage and straightforwardness. To enforce the regulations regarding the prohibition of _sati_, he was prepared to risk his own position.

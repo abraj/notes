@@ -1,25 +1,25 @@
 
-### Lord Dalhousie (1848-1856)
+## Lord Dalhousie (1848-1856)
 * Lord Dalhousie was the youngest Governor-General of India when he assumed charge at the age of 36 in 1848.
 * He did much for the progress of railway construction in England as the president of the Board of Trade.
 
-#### Policy of Annexation
+### Policy of Annexation
 * Although he used different reasons for annexation, his main objective was to end misrule in the annexed states, as in the case of the annexation of Oudh.
 * His great annexations include the Punjab, Lower Burma, most of the Central Provinces and Oudh.
 * He aimed at providing the beneficent administration to the people of the annexed states.
 * At the same time he had in his mind the advantages of annexation to the British such as imperial defence, commercial and financial benefits.
 
-#### Annexation of Punjab (1849)
+### Annexation of Punjab (1849)
 * Punjab was annexed by Dalhousie at the end of the second Anglo-Sikh War in 1849.
 * He organized the administration of Punjab very efficiently.
 * The overall administration of Punjab was entrusted to the Chief Commissioner. In fact, the Governor-General was the virtual ruler of Punjab.
 * In 1859, Sir John Lawrence became the Lieutenant Governor of Punjab.
 
-#### Second Burmese War and the Annexation of Lower Burma (1852)
+### Second Burmese War and the Annexation of Lower Burma (1852)
 * After the end of the second Burmese War (1852), Dalhousie annexed Lower Burma with its capital at Pegu.
 * The annexation of Lower Burma proved beneficial to Britain. Rangoon, Britain’s most valuable acquisition from the war became one of the biggest ports in Asia.
 
-#### Doctrine of Lapse
+### Doctrine of Lapse
 * Dalhousie also took advantage of every opportunity to acquire territory by peaceful means.
 * The East India Company was rapidly becoming the predominant power in India. It had concluded alliances with Indian rulers.
 
@@ -39,7 +39,7 @@ As a result of annexation of Satara, Nagpur and Jhansi a large part of the Centr
 * Although the Doctrine of Lapse cannot be regarded as illegal, its application by Dalhousie was disliked by Indian princes.
 * After the Mutiny of 1857, the doctrine of lapse was withdrawn.
 
-#### Annexation of Oudh (1856)
+### Annexation of Oudh (1856)
 
 _Background:_
 * The British relations with the state of Oudh go back to the Treaty of Allahabad in 1765.
@@ -58,7 +58,7 @@ _Implications:_
 
 In these various ways, the annexation of Oudh contributed to the Mutiny of 1857.
 
-#### Domestic Reforms of Dalhousie
+### Domestic Reforms of Dalhousie
 The appointment of a Lieutenant-Governor to Bengal enabled Dalhousie concentrate on administration.
 
 His greatest achievement was the molding of the new provinces into a modern centralized state.
@@ -69,7 +69,7 @@ Military reforms
 * Dalhousie shifted the headquarters of Bengal Artillery from Calcutta to Meerut.
 * Simla was made the permanent headquarters of the army.
 
-#### Railways
+### Railways
 There were three major reasons for the British to take interest in the quick development of Railways:
 * The first reason was commercial.
 * The second main reason was administrative.
@@ -82,31 +82,31 @@ At the time of revolt and disturbance, movement of the forces was much easier th
 
 The first railway in the world was opened in 1825 in England.
 
-#### Telegraph
+### Telegraph
 The use of Telegraph brought extraordinary changes in communication system.
 
 In 1852, The main cities of the country viz., Calcutta, Peshawar, Bombay and Madras were telegraphically connected.
 
 During the 1857 Revolt, the system of telegraphic communication proved a boon for the English and the military value of Dalhousie’s creation was much realized at that time.
 
-#### Postal Reform
+### Postal Reform
 The foundation of modern postal system was laid down by Lord Dalhousie.
 * A new Post Office Act was passed in 1854.
 * Consequently, irrespective of the distance over which the letter was sent, a uniform rate of half an _anna_ per post card was charged throughout India.
 * Postage stamps were introduced for the first time.
 
-#### Education
+### Education
 * The educational Despatch of Sir Charles Wood (1854) was considered the “Intellectual Charter of India”.
 * It provided an outline for the comprehensive scheme of education at primary, secondary and collegiate levels.
 * Dalhousie fully accepted the views of Charles Wood and took steps to carry out the new scheme.
 * The Universities of Calcutta, Bombay and Madras were founded in 1857, after Lord Dalhousie left India in 1856.
 
-#### Public Works Department
+### Public Works Department
 * Before the period of Dalhousie, the job of the Public Works Department was done by the Military Board.
 * Dalhousie created a separate Public Works Department and allotted more funds for cutting canals and roads.
 * By modernizing the Public Works Department he laid the foundations of the engineering service in India.
 
-#### Estimate of Dalhousie
+### Estimate of Dalhousie
 * Dalhousie was an able administrator and visionary.
 * He increased the extent of British India and consolidated it by his policy of annexation.
 * Dalhousie left India in 1856. The outbreak of Mutiny in the following year led to a severe criticism of his policy of annexation.
