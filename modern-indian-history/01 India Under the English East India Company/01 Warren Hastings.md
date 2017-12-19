@@ -51,12 +51,12 @@ _Provisions of the Act:_
     - The Governor-General had a casting vote in case of a tie.
 * The Governor-General in Council was made supreme over the other Presidencies in matters of war and peace.
 * Provision was made in the Act for the establishment of a Supreme Court at Calcutta.
-    - The Supreme Court was to be independent of the Governor- General in Council.
+    - The Supreme Court was to be independent of the Governor-General in Council.
     - In 1774, the Supreme Court was established by a Royal Charter.
 * This Act prevented all the servants of the Company from receiving directly or indirectly any gifts in kind or cash.
 
 _Merits of the Act:_
-* brought the affairs of the Company under the control of the Parliament.
+* brought the affairs of the Company under the control of the Parliament
 * proved that the Parliament of England was concerned about the welfare of Indians
 * put an end to the arbitrary rule of the Company and provided a framework for all future enactments relating to the governing of India
 
@@ -67,8 +67,8 @@ _Demerits of the Act:_
 However, many of these defects were rectified by the Pitt’s India Act of 1784.
 
 #### Pitt’s India Act, 1784
-* In January 1784, Pitt the Younger (who became Prime Minister of England) introduced the 'India Bill' in the British Parliament.
-* the bill was passed in the British Parliament and it received royal assent in August 1784.
+* In January 1784, Pitt the Younger (who later became the Prime Minister of England) introduced the 'India Bill' in the British Parliament.
+* The bill was passed in the British Parliament and it received royal assent in August 1784.
 
 _Provisions of the Act:_
 * A Board of Control consisting of six members was created. They were appointed by the Crown.
@@ -81,7 +81,7 @@ Pitt’s India Act constitutes a significant landmark with regard to the foreign
 
 #### Expansionist Policy of Warren Hastings
 
-__The Rohilla War (1774) :__
+##### The Rohilla War (1774) :
 * Rohilkand was a small kingdom situated in between Oudh and the Marathas. Its ruler was Hafiz Rahmat Khan.
 * When Rahmat Khan evaded, the Nawab with the help of the British invaded Rohilkand.
 * Warren Hastings, who sent the British troops against Rohilkand was severely crticised for his policy on Rohilla affair.
