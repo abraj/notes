@@ -83,7 +83,7 @@ Pitt’s India Act constitutes a significant landmark with regard to the foreign
 
 #### The Rohilla War (1774)
 * Rohilkand was a small kingdom situated in between Oudh and the Marathas. Its ruler was Hafiz Rahmat Khan.
-* When Rahmat Khan evaded, the Nawab with the help of the British invaded Rohilkand.
+* When Rahmat Khan evaded, the Nawab of Oudh with the help of the British invaded Rohilkand.
 * Warren Hastings, who sent the British troops against Rohilkand was severely crticised for his policy on Rohilla affair.
 
 #### The First Anglo-Maratha War (1775-82)
@@ -125,8 +125,9 @@ Consequently, Haider was isolated without any alliance.
 The Second Mysore War came to an end by the __Treaty of Mangalore__ in 1783.
 
 ### The Impeachment of Warren Hastings
-* bitter disappointment for Warren Hastings due to the Pitt’s India Act of 1784
-* his image and reputation were tarnished in England
+* The Pitt’s India Act of 1784 was a rude shock and bitter disappointment for Warren Hastings.
+    - censuring of the policy of the Government of Bengal by the British government
+    - his image and reputation were tarnished in England
 * Charges:
     - His policy on Rohilla affair during Rohilla War
     - Pressures on Begums of Oudh
