@@ -105,9 +105,7 @@ Warren Hastings, by a clever stroke of diplomacy, divided the Confederacy.
 * he made peace with the Nizam of Hyderabad
 * he came to an understanding with Marathas (Bhonsle and Scindia)
 
-Consequently, Haider was isolated without any alliance.
-* 1781: British defeated Haider Ali
-* 1782: Haider Ali died of cancer
+Consequently, Haider was isolated without any alliance. Haider Ali died of cancer in 1782. His eldest son, Tipu Sultan, lead the ongoing war with the British.
 
 The Second Mysore War came to an end by the __Treaty of Mangalore__ in 1784.
 * both sides agreed to restore the others' lands to the _'status quo ante bellum'_ ("the state existing before the war")
