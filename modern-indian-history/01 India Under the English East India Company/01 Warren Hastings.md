@@ -66,19 +66,6 @@ _Demerits of the Act:_
 
 However, many of these defects were rectified by the Pitt’s India Act of 1784.
 
-### Pitt’s India Act, 1784
-* In January 1784, Pitt the Younger (who later became the Prime Minister of England) introduced the 'India Bill' in the British Parliament.
-* The bill was passed in the British Parliament and it received royal assent in August 1784.
-
-_Provisions of the Act:_
-* A Board of Control consisting of six members was created. They were appointed by the Crown.
-* In England, The Court of Directors was retained without any alteration in its composition.
-* In India, the number of members in the Governor-General’s Council was reduced from four to three. [4+1 --> 3+1]
-
-Pitt’s India Act constitutes a significant landmark with regard to the foreign policy of the Company.
-* The Court of Directors (who symbolised the Company) controlled its commercial functions.
-* The Board of Control (who represented the King) maintained its political affairs.
-
 ### Expansionist Policy of Warren Hastings
 
 #### The Rohilla War (1774)
@@ -122,7 +109,27 @@ Consequently, Haider was isolated without any alliance.
 * 1781: British defeated Haider Ali
 * 1782: Haider Ali died of cancer
 
-The Second Mysore War came to an end by the __Treaty of Mangalore__ in 1783.
+The Second Mysore War came to an end by the __Treaty of Mangalore__ in 1784.
+* both sides agreed to restore the others' lands to the _'status quo ante bellum'_ ("the state existing before the war")
+* exhibited the military strength of Mysore, exposed English weaknesses and increased Tipu’s strength
+* it was the last occasion when an Indian power dictated terms to the Company
+
+The great advantage to Tipu was the psychological impact of his victory with the British. The humiliation of the Treaty (coupled with the recent loss of the Thirteen Colonies, in America) made the British determined to defeat and humble Tipu.
+
+The loss to the British East India Company was of great concern to the British government since its trade represented a sixth of the British national income. It was decided to fix the problems through what is now called Pitt’s India Act.
+
+### Pitt’s India Act, 1784
+* In January 1784, Pitt the Younger (who later became the Prime Minister of England) introduced the 'India Bill' in the British Parliament.
+* The bill was passed in the British Parliament and it received royal assent in August 1784.
+
+_Provisions of the Act:_
+* A Board of Control consisting of six members was created. They were appointed by the Crown.
+* In England, The Court of Directors was retained without any alteration in its composition.
+* In India, the number of members in the Governor-General’s Council was reduced from four to three. [4+1 --> 3+1]
+
+Pitt’s India Act constitutes a significant landmark with regard to the foreign policy of the Company.
+* The Court of Directors (who symbolised the Company) controlled its commercial functions.
+* The Board of Control (who represented the King) maintained its political affairs.
 
 ### The Impeachment of Warren Hastings
 * The Pitt’s India Act of 1784 was a rude shock and bitter disappointment for Warren Hastings.
