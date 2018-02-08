@@ -17,4 +17,4 @@ References:
 * http://www.insightsonindia.com/2018/02/07/insights-daily-current-affairs-07-february-2018/
 
 Keywords:  
-Industrial policy
+Industrial Policy
