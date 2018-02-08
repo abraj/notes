@@ -8,7 +8,7 @@ Why:
 catalysts to help the Startup India initiative to drive India’s economic growth.
 
 The 3 tools:  
-1. State and Union Territory Startup Ranking Framework
+1. States and UTs Startup Ranking Framework
     * encourage States and UTs to take proactive steps towards strengthening the Startup ecosystems at the local level
     * measure the impact of each step initiated at the local level for building a strong Startup ecosystem
 2. Compendium of Good Practices for Promoting Startups in India
